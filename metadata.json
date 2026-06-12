@@ -1,0 +1,6 @@
+{
+  "name": "The Collector",
+  "description": "Um inventário digital centralizado e flexível para catalogar, organizar e gerenciar coleções de itens pessoais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
